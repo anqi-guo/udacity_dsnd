@@ -1,4 +1,3 @@
-![CERTIFICATE](https://github.com/anqi-guo/udacity-dsnd-project3/blob/master/DSND_Certificate.png)
 # Table of Contents
 1. Installation
 2. Project Motivation
